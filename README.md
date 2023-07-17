@@ -1,8 +1,4 @@
-# Group Policy Hakkında Bilgi
-
-Bu README.md dosyası, Group Policy'nin nasıl çalıştığını ve nasıl atlanabileceğini anlatır.
-
-## Group Policy Nedir?
+# Group Policy Nedir?
 
 Group Policy (Grup İlkesi), Microsoft Windows tabanlı işletim sistemlerinde kullanılan bir yönetim aracıdır. Group Policy, ağ yöneticilerine, kullanıcıların ve bilgisayarların davranışını kontrol etmek için merkezi bir yerden politikalar uygulama ve yapılandırma imkanı sağlar.
 
