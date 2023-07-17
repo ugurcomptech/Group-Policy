@@ -1,5 +1,9 @@
 # Group Policy Nedir?
 
+
+![image](https://github.com/ugurcomptech/Group-Policy/assets/133202238/18808927-6287-47fa-bf53-447b6ab00d9c)
+
+
 Group Policy (Grup İlkesi), Microsoft Windows tabanlı işletim sistemlerinde kullanılan bir yönetim aracıdır. Group Policy, ağ yöneticilerine, kullanıcıların ve bilgisayarların davranışını kontrol etmek için merkezi bir yerden politikalar uygulama ve yapılandırma imkanı sağlar.
 
 Group Policy, Active Directory altyapısına dayalı bir yapıya sahiptir. Active Directory, Windows tabanlı ağlarda kullanıcı hesaplarını, güvenlik politikalarını ve diğer sistem yapılandırmalarını merkezi olarak yönetmek için kullanılan bir dizin hizmetidir. Group Policy, bu Active Directory altyapısı üzerinden politika ayarlarını uygular.
